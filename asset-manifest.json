@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/mother-earth/static/css/main.3d666be1.css",
-    "main.js": "/mother-earth/static/js/main.7720a83a.js",
+    "main.css": "/mother-earth/static/css/main.7ce14c76.css",
+    "main.js": "/mother-earth/static/js/main.d2c930f4.js",
     "static/media/IMG_20210828_012345.jpg": "/mother-earth/static/media/IMG_20210828_012345.16089ab3d018b98a58ff.jpg",
     "static/media/IMG_2387.JPG": "/mother-earth/static/media/IMG_2387.1246cac67cc03a40a4a2.JPG",
     "static/media/IMG_2388.JPG": "/mother-earth/static/media/IMG_2388.ad5c563b15eac193d049.JPG",
     "static/media/IMG_20210901_180917.jpg": "/mother-earth/static/media/IMG_20210901_180917.a994687da2ead3d83b33.jpg",
     "static/media/IMG_20210828_012250.jpg": "/mother-earth/static/media/IMG_20210828_012250.8648685c43534028edf5.jpg",
     "index.html": "/mother-earth/index.html",
-    "main.3d666be1.css.map": "/mother-earth/static/css/main.3d666be1.css.map",
-    "main.7720a83a.js.map": "/mother-earth/static/js/main.7720a83a.js.map"
+    "main.7ce14c76.css.map": "/mother-earth/static/css/main.7ce14c76.css.map",
+    "main.d2c930f4.js.map": "/mother-earth/static/js/main.d2c930f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.3d666be1.css",
-    "static/js/main.7720a83a.js"
+    "static/css/main.7ce14c76.css",
+    "static/js/main.d2c930f4.js"
   ]
 }
